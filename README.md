@@ -1,2 +1,2 @@
 # NAIVE-BAYES
-Machine Learning NAIVE BAYES /algorithm
+Machine Learning NAIVE BAYES Algorithm
